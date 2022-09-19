@@ -38,6 +38,23 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
 </div>
 
+<!-- <h3 align="left">Hosting :</h3> -->
+<h2 align="left"><i>Hosting :</i></h2>
+<div align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</div><br/>
+
+
+<!-- <h3 align="left">Connect with me:</h3> -->
+<h2 align="left"><i>Connect with me:</i></h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/vaibhav15/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vaibhavghawale007@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
+
 <br>
 
 <h2 align="center">📊 My Github Stats</h2>
