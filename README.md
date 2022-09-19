@@ -25,16 +25,18 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=thecodervaibhav&left_color=blue&right_color=green) -->
 <!--   ![Visitor Count](https://profile-counter.glitch.me/thecodervaibhav/count.svg) -->
 
-<span><h2 align="center">Languages and Tools:</h2>
-  <br>
-    <p align="center">
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/java/java.png" alt="Java" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/spring-boot/spring-boot.png" alt="Spring Boot Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/mysql/mysql.png" alt="MySQL Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/javascript/javascript.png" alt="JS Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/html/html.png" alt="HTML" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/css/css.png" alt="CSS" width="50px" height="50px"/> 
-</p></span>
+<h2 align="left"><i>Tech Stack :</i></h2>
+<div align="left">
+<!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
+<img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-716a47.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
+</div>
 
 <br>
 
