@@ -7,14 +7,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodervaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" /> </p>
 
-/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodervaibhav" alt="vaibhav" /></a> </p> */
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodervaibhav" alt="vaibhav" /></a></p> 
    
    
 - 👩‍💻 I'm currently working on improving my skills
 
 - 🧠 I'm currently learning MySQL
 
-- 💬 Ask me about Java/DSA/JS/HTML/CSS
+- 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
 
 - Checkout my [Portfolio](https://thecodervaibhav.github.io/)
 
