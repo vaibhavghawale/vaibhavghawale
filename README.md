@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/vaibhav15/" target="_blank"> Vaibhav Ghawale </a></h1>
+<h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/vaibhavghawale15/"target="_blank"> Vaibhav Ghawale </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - Checkout my [Portfolio](https://thecodervaibhav.github.io/)
 
-<a href="https://www.linkedin.com/in/vaibhavghawale15/">
+<a href="https://www.linkedin.com/in/vaibhavghawale15/" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
 
 <a href="https://www.hackerrank.com/vaibhavghawale01">
