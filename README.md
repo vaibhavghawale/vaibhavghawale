@@ -61,7 +61,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  
 <!--  
 <h2 align="center">📊<i> My Static :</i></h2>
- <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/> -->
+ <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/>
 
 <br>
 
