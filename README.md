@@ -1,7 +1,7 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/vaibhavghawale15/"target="_blank"> Vaibhav Ghawale </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
-🚀<h2> About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
    
@@ -12,7 +12,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    
 - 👩‍💻 I'm currently working on improving my skills
 
-- 🧠 I'm currently learning MySQL
+- 🧠 I'm currently learning Spring Boot
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
 
@@ -56,21 +56,24 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
-
-<h2 align="center"><i>My Static :</i></h2>
- <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/>
+<h2 align="center"><i>My Services :</i></h2>
+ <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back2.png"/>
+ 
+<!--  
+<h2 align="center">📊<i> My Static :</i></h2>
+ <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/> -->
 
 <br>
 
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center">📊<i> My Github Stats :</i></h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=indian-flag" alt="Vaibhav ghawale" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thecodervaibhav&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=thecodervaibhav&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+    <img align="right" src="https://activity-graph.herokuapp.com/graph?username=thecodervaibhav&theme=xcode"&height="275px" width="65%"/>
 </div>
   
 </br>  
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=indian-flag" alt="vaibhav ghawale" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=thecodervaibhav&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/>
 </div>
