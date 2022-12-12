@@ -57,11 +57,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 
 <h2 align="center"><i>My Services :</i></h2>
- <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back2.png"/>
+ <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/services.png"/>
  
 <!--  
 <h2 align="center">📊<i> My Static :</i></h2>
- <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/back.png"/> -->
+ <img src="https://github.com/thecodervaibhav/thecodervaibhav/blob/main/static.png"/> -->
 
 <br>
 
@@ -69,7 +69,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=thecodervaibhav&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
-    <img align="right" src="https://activity-graph.herokuapp.com/graph?username=thecodervaibhav&theme=xcode"&height="275px" width="65%"/>
+    
 </div>
   
 </br>  
