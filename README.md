@@ -62,11 +62,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=thecodervaibhav&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
-    
 </div>
-  
-</br>  
-
+</br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/>
 </div>
