@@ -31,15 +31,23 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!--   ![Visitor Count](https://profile-counter.glitch.me/thecodervaibhav/count.svg) -->
 
 <h2 align="left"><i>Tech Stack :</i></h2>
+
 <div align="left">
-<!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> -->
+
 <img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-716a47.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+   <img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+   <img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+
+   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-716a47.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
 </div>
 
 <!-- <h3 align="left">Hosting :</h3> -->
@@ -48,7 +56,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
-<!-- <h3 align="left">Connect with me:</h3> -->
+
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhavghawale15/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
