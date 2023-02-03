@@ -50,7 +50,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 </div>
 
-<!-- <h3 align="left">Hosting :</h3> -->
 <h2 align="left"><i>Hosting :</i></h2>
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
