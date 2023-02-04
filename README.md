@@ -63,10 +63,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
-<br>
+
 
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
+
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/thecodervaibhav?cardType=level&preferLogin=false" alt="Vaibhav ghawale" height="250px" width="45%" />
 </div>
-</br>
+
