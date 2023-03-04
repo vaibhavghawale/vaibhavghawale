@@ -17,6 +17,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
 
 - Checkout my [Portfolio](https://thecodervaibhav.github.io/)
+- Checkout my [Resume](https://drive.google.com/file/d/1qHoGqgrgyTOMBHAVWFnaeGWEW6o8Ctr7/view)
 
 <a href="https://www.linkedin.com/in/vaibhavghawale15/" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
