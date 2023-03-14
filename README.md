@@ -63,9 +63,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <a href="mailto:vaibhavghawale007@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
-
-
-
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
@@ -74,5 +71,5 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 <div class="github-stat">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/>
-                </div>
+</div>
 
