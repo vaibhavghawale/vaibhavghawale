@@ -57,7 +57,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<h2 align="left"><i>Connect with me:</i></h2>
+<h2 align="left"><i>Connect with me : </i></h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhavghawale15/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vaibhavghawale007@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
