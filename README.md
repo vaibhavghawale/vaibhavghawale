@@ -12,7 +12,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    
 - 👩‍💻 I'm currently working on improving my skills
 
-- 🧠 I'm currently learning JSP
+- 🧠 I'm currently learning React
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
 
