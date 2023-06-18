@@ -80,15 +80,15 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    <a href="https://twitter.com/VaibhavGhawale"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 <h2 align="center">📊<i> My Github Stats :</i></h2>
-<div align="center">
+<div align="justify">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavghawale&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 
   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/vaibhavghawale?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 </div>
 <div class="github-stat">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavghawale&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/> -->
-    <br />
-    <br />
-  </p>  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact) -->
+*   Pie Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavghawale\&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
 </div>
 
