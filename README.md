@@ -2,12 +2,29 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 <h2 align="left">🚀 About Me</h2>
-
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
+ <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>  
    
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodervaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" /> </p>
+   
+   <p align="">
+   <img src="https://komarev.com/ghpvc/?username=vaibhavghawale&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" />
+<!-- <a href="https://github.com/vaibhavghawale/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/vaibhavghawale/github-readme-stats/workflows/Test/badge.svg" />
+    </a> -->
+    <a href="https://github.com/vaibhavghawale/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/vaibhavghawale/github-readme-stats">
+      <img src="https://codecov.io/gh/vaibhavghawale/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/vaibhavghawale/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/vaibhavghawale/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodervaibhav" alt="vaibhav" /></a></p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavghawale" alt="vaibhav" /></a></p> 
    
    
 - 👩‍💻 I'm currently working on improving my skills
@@ -64,11 +81,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 <h2 align="center">📊<i> My Github Stats :</i></h2>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodervaibhav&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavghawale&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/thecodervaibhav?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/vaibhavghawale?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 </div>
 <div class="github-stat">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavghawale&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/> -->
+    <br />
+    <br />
+  </p>  
 </div>
 
