@@ -69,6 +69,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/thecodervaibhav?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 </div>
 <div class="github-stat">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodervaibhav&layout=default&langs_count=8&hide=&theme=highcontrast" alt="vaibhav ghawale" height="275px" width="30%"/> -->
 </div>
 
