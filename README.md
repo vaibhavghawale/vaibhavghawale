@@ -3,8 +3,7 @@
 
 <h2 align="left">🚀 About Me</h2>
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
- <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>  
-   
+ <p></p>
    
    <p align="">
    <img src="https://komarev.com/ghpvc/?username=vaibhavghawale&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" />
@@ -24,7 +23,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavghawale" alt="vaibhav" /></a></p> 
+<p align="center" gap="20px" margin="20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavghawale" alt="vaibhav" /></a></p> 
    
    
 - 👩‍💻 I'm currently working on improving my skills
