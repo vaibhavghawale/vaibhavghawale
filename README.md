@@ -1,5 +1,6 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/vaibhavghawale15/"target="_blank"> Vaibhav Ghawale </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
+ 
+ <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /> </h3>
 
 <h2 align="left">🚀 About Me</h2>
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
@@ -82,7 +83,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <div align="justify">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavghawale&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
 
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/vaibhavghawale?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav ghawale" height="250px" width="45%" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/vaibhavghawale?cardType=level-alternate&preferLogin=false&theme=highcontrast" alt="Vaibhav Ghawale" height="250px" width="45%" />
 </div>
 <div class="github-stat">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact) -->
