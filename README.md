@@ -87,8 +87,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </div>
 <div class="github-stat">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact) -->
-*   Pie Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavghawale\&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavghawale\&layout=compact)
 </div>
 
