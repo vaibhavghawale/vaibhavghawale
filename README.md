@@ -2,9 +2,10 @@
  
  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /></h1>
 
-<h2 align="left">🚀 About Me</h2>
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
- <p></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=ABOUT-ME;)](https://git.io/typing-svg)
+
+<P>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
+ </p>
    
    <p align="">
    <img src="https://komarev.com/ghpvc/?username=vaibhavghawale&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" />
@@ -48,7 +49,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=thecodervaibhav&left_color=blue&right_color=green) -->
 <!--   ![Visitor Count](https://profile-counter.glitch.me/thecodervaibhav/count.svg) -->
 
-<h2 align="left"><i>Tech Stack :</i></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=TECH-STACK;)](https://git.io/typing-svg)
 
 <div align="left">
 
@@ -68,7 +69,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 </div>
 
-<h2 align="left"><i>Hosting :</i></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=HOISTING;)](https://git.io/typing-svg)
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
