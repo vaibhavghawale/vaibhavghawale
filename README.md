@@ -1,10 +1,10 @@
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> I'm <a href="https://www.linkedin.com/in/vaibhavghawale15/"target="_blank"> Vaibhav Ghawale </a></h1>
  
- <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Java+Backend+Developer+%3A)" /></h1>
+ <h1 align="center"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=ABOUT-ME;)](https://git.io/typing-svg)
 
-<P>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
+<P>I have 1 Year And 8 Months of working experience in providing Infrastructure/Integration and Production Support in the Telecom Domain. Good Experience and knowledge of Databases like Oracle (SQL, PL/SQL). Good Experience with SQL queries. And passionate About JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
  </p>
    
    <p align="">
