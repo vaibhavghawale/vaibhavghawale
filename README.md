@@ -32,10 +32,10 @@
 
 - 🧠 I'm currently learning React
 
-- 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
+- 💬 Ask me about Java/DSA/JS/HTML/CSS/Oracle SQL/Hibernate/Spring Boot/BMC ticketing System/Unix
 
-<!--- Checkout my [Portfolio](https://vaibhavghawale.github.io/) -->
-- Checkout my [Resume](https://drive.google.com/file/d/1qHoGqgrgyTOMBHAVWFnaeGWEW6o8Ctr7/view)
+<!--- Checkout my [Portfolio](https://vaibhavghawale.github.io/) 
+- Checkout my [Resume](https://drive.google.com/file/d/1qHoGqgrgyTOMBHAVWFnaeGWEW6o8Ctr7/view) -->
 
 <a href="https://www.linkedin.com/in/vaibhavghawale15/" target="_blank">
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
@@ -55,7 +55,7 @@
 
 <img alt="Java" src="https://img.shields.io/badge/java-f89820.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="MySQL" src="https://img.shields.io/badge/sql-00758f?style=for-the-badge&logo=sql&logoColor=white"/>
 
    <img alt="Spring" src="https://img.shields.io/badge/spring-%f6b9ad.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
@@ -66,6 +66,8 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+   <img alt="Unix" src="https://img.shields.io/badge/Unix-716a47.svg?style=for-the-badge&logo=penguin&logoColor=blue"/>
 
 </div>
 
