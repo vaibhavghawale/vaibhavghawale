@@ -34,7 +34,7 @@
 
 - 💬 Ask me about Java/DSA/JS/HTML/CSS/MySQL/Hibernate/Spring Boot/AWS
 
-- Checkout my [Portfolio](https://vaibhavghawale.github.io/)
+<!--- Checkout my [Portfolio](https://vaibhavghawale.github.io/) -->
 - Checkout my [Resume](https://drive.google.com/file/d/1qHoGqgrgyTOMBHAVWFnaeGWEW6o8Ctr7/view)
 
 <a href="https://www.linkedin.com/in/vaibhavghawale15/" target="_blank">
