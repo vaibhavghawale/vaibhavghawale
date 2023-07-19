@@ -76,7 +76,9 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
-<h2 align="left"><i>Connect with me : </i></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=Connect-with-me;)](https://git.io/typing-svg)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhavghawale15/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vaibhavghawale15@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
