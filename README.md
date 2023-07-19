@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Roboto&color=0AA798&size=20&lines=ABOUT-ME;)](https://git.io/typing-svg)
 
-<P>I have 1 Year And 8 Months of working experience in providing Infrastructure/Integration and Production Support in the Telecom Domain. Good Experience and knowledge of Databases like Oracle (SQL, PL/SQL). Good Experience with SQL queries. And passionate About JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
- </p>
+<P> </p>
    
    <p align="">
    <img src="https://komarev.com/ghpvc/?username=vaibhavghawale&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" />
